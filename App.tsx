@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react';
-import pugImage from './imagen a.jpeg';
-import documentImage from './imagen b.png';
+import pugImage from './imagena.jpeg';
+import documentImage from './imagenb.jpg';
 
 const PUG_IMAGE_URL = pugImage;
 const DOCUMENT_IMAGE_URL = documentImage;
