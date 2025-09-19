@@ -1,0 +1,5 @@
+{
+  "name": "Pug's Secret Document",
+  "description": "A fun, interactive web page that starts with a picture of a cute pug. Users can search for a hidden button, which, when clicked, reveals a secret document by changing the background image.",
+  "requestFramePermissions": []
+}
