@@ -1,6 +1,7 @@
 
 import React, { useState } from 'react';
-
+import pugImage from './imagen a.jpeg';
+import documentImage from './imagen b.png';
 const PUG_IMAGE_URL = 'https://i.imgur.com/rL7Jp6J.jpeg';
 const DOCUMENT_IMAGE_URL = 'https://i.imgur.com/bW3v2so.png';
 
